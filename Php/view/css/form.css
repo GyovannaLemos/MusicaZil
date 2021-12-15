@@ -1,0 +1,35 @@
+
+
+.fundo{
+
+    background-color: rgb(65, 64, 64);
+   
+   
+}
+
+form{
+   
+    color: #ff4651;
+}
+
+#formusu{
+    margin-top: 5%;
+    width: 800px;
+    height: 500px;
+    margin-left: 66vh;
+    
+}
+
+
+
+form label{
+    display: inline-block;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#btncad{
+    background-color: #ff4651;
+    border-color: black;
+}
+
